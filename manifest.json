@@ -1,0 +1,23 @@
+{
+    "name":"NewNotes",
+    "description": "Create, save and manage notes in one convenient location!",
+	"icons": [
+	
+		{
+			"src": "pages/img/icon_img.png",
+			"type": "image/png",
+			"sizes": "96x96"
+		},
+		{
+			"src": "pages/img/icon_img2.png",
+			"type": "image/png",
+			"sizes": "192x192"
+		},
+	],
+    "start_url": "index.html",
+    "scope": "/",
+    "display": "standalone",
+    "theme_color": "#496468",
+    "background_color": "#496468",
+    "dir": "auto",
+}
